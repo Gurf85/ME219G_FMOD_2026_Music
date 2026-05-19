@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <objects serializationModel="Studio.02.03.00">
-	<object class="AudioFile" id="{e59c13f1-1f1a-49f2-818b-0ff2adca2b2c}">
+	<object class="AudioFile" id="{316765e2-51b8-47e4-a924-0f658ebde18e}">
 		<property name="assetPath">
-			<value>Audio/Zone_2/Perc_Zone_2.wav</value>
+			<value>Audio/Zone_1/Perc_Zone_2.wav</value>
 		</property>
 		<property name="frequencyInKHz">
 			<value>48</value>
