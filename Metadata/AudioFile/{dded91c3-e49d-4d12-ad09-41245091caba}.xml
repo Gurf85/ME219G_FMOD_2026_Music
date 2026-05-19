@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <objects serializationModel="Studio.02.03.00">
-	<object class="AudioFile" id="{48a63f0f-9d1e-458e-97d8-f1629e0a68d2}">
+	<object class="AudioFile" id="{dded91c3-e49d-4d12-ad09-41245091caba}">
 		<property name="assetPath">
-			<value>Audio/Menu/Pad_Menu.wav</value>
+			<value>Audio/Menu/Cluster_Lead_Menu.wav</value>
 		</property>
 		<property name="isStreaming">
 			<value>true</value>
