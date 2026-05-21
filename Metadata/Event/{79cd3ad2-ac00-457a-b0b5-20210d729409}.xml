@@ -131,7 +131,7 @@
 	</object>
 	<object class="EventMixerGroup" id="{62a6381f-1486-4982-9c36-3ab65dcb74be}">
 		<property name="name">
-			<value>Audio 2</value>
+			<value>Cluster_Intro</value>
 		</property>
 		<relationship name="effectChain">
 			<destination>{44d62813-c8b0-4296-a09d-6a5df646dae6}</destination>
@@ -153,7 +153,7 @@
 	</object>
 	<object class="EventMixerGroup" id="{15016e75-6d60-408b-8d95-d375e9926571}">
 		<property name="name">
-			<value>Audio 4</value>
+			<value>Pad_Intro</value>
 		</property>
 		<relationship name="effectChain">
 			<destination>{456adb52-bfe7-4e57-8046-1fc82f51de12}</destination>
@@ -175,7 +175,7 @@
 	</object>
 	<object class="EventMixerGroup" id="{e8d0c5ee-7ce8-4892-bbe6-47d9a3df19e2}">
 		<property name="name">
-			<value>Audio 1</value>
+			<value>ambience_Zone_1</value>
 		</property>
 		<relationship name="effectChain">
 			<destination>{411ec714-49ad-4aa1-b887-4301df8d0446}</destination>
@@ -197,7 +197,7 @@
 	</object>
 	<object class="EventMixerGroup" id="{aa2ed6cc-402c-43e4-9a5a-81827e4fc57a}">
 		<property name="name">
-			<value>Audio 3</value>
+			<value>FX_Intro</value>
 		</property>
 		<relationship name="effectChain">
 			<destination>{290a3f72-adf7-447a-80da-374a020fba5a}</destination>
