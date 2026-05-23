@@ -1,8 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <objects serializationModel="Studio.02.03.00">
-	<object class="AudioFile" id="{078bd4a8-af11-4889-8c23-64a9dc0a4132}">
+	<object class="AudioFile" id="{931e536c-4f21-481b-aa10-caaab4fa9417}">
 		<property name="assetPath">
 			<value>Audio/Zone_1/Ambience_Zone_1.wav</value>
+		</property>
+		<property name="isStreaming">
+			<value>true</value>
 		</property>
 		<property name="frequencyInKHz">
 			<value>48</value>
@@ -11,7 +14,7 @@
 			<value>2</value>
 		</property>
 		<property name="length">
-			<value>9.4117708333333336</value>
+			<value>11.189541666666667</value>
 		</property>
 		<relationship name="masterAssetFolder">
 			<destination>{87141b2c-14ae-4bd0-b17b-6338c22d2609}</destination>
