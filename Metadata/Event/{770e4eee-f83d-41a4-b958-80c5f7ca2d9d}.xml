@@ -257,6 +257,9 @@
 		</relationship>
 	</object>
 	<object class="EventMixerGroup" id="{e411547f-6742-4a2e-8bff-22e6f33bb748}">
+		<property name="volume">
+			<value>-6.5</value>
+		</property>
 		<property name="name">
 			<value>Key_Stinger</value>
 		</property>
