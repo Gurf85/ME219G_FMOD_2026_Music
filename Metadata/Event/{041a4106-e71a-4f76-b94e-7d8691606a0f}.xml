@@ -144,7 +144,7 @@
 	</object>
 	<object class="EventMixerGroup" id="{3c585745-73d4-4135-8891-2107ccb7fb13}">
 		<property name="name">
-			<value>Audio 1</value>
+			<value>Combat_Perc_Zone_3</value>
 		</property>
 		<relationship name="effectChain">
 			<destination>{4b5300ce-fc92-442c-88f0-a1e1e7f32ed4}</destination>
