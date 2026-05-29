@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <objects serializationModel="Studio.02.03.00">
-	<object class="AudioFile" id="{c136989c-4dab-4d86-90eb-4f72fad46e23}">
+	<object class="AudioFile" id="{be76af09-ee2b-4d46-b536-f9664bd2bb0c}">
 		<property name="assetPath">
 			<value>Audio/Zone_4/Loop_C_Zone_4.wav</value>
 		</property>
