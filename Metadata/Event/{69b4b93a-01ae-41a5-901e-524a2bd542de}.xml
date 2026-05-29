@@ -12,7 +12,7 @@ Parametern Transition styr övergångar mellan loopar. 0=Loop A 1=Loop_B 2=Loop_
 			<value>1</value>
 		</property>
 		<relationship name="folder">
-			<destination>{971eb377-adbc-4d6a-bbb0-93fde4e31c19}</destination>
+			<destination>{dbda55a6-3aa5-44bd-8ed6-f0b326f7ffb6}</destination>
 		</relationship>
 		<relationship name="mixer">
 			<destination>{e2d9c7be-5c79-46d6-affa-0cb1cdde2295}</destination>
