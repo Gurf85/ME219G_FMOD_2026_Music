@@ -44,6 +44,9 @@ Parametern Transition styr övergångar mellan loopar. 0=Loop A 1=Loop_B 2=Loop_
 			<destination>{61571933-43f3-47df-a483-c179a81461fa}</destination>
 			<destination>{6e508b3f-0e5c-4cc9-9994-16edbfc354fa}</destination>
 		</relationship>
+		<relationship name="banks">
+			<destination>{0e41109f-2d01-4da2-8a51-0de32d7fc467}</destination>
+		</relationship>
 	</object>
 	<object class="EventMixer" id="{e2d9c7be-5c79-46d6-affa-0cb1cdde2295}">
 		<relationship name="masterBus">
