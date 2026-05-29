@@ -1,6 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <objects serializationModel="Studio.02.03.00">
 	<object class="Event" id="{770e4eee-f83d-41a4-b958-80c5f7ca2d9d}">
+		<property name="note">
+			<value>Loop_A på repeat. Key Stinger triggas när parametern Key_Pick_Up står på 1.</value>
+		</property>
 		<property name="name">
 			<value>Zone_2</value>
 		</property>

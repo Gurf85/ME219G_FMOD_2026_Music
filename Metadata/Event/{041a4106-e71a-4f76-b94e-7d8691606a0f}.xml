@@ -1,6 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <objects serializationModel="Studio.02.03.00">
 	<object class="Event" id="{041a4106-e71a-4f76-b94e-7d8691606a0f}">
+		<property name="note">
+			<value>Loop_A går på repeat. Combat-musik styrs med hjälp av ett command inst. start som startar musiken när värdet på combat parametern är 1 och ett command inst. stop som stoppar musiken när värdet går ner till 0 igen.</value>
+		</property>
 		<property name="name">
 			<value>Zone_3</value>
 		</property>

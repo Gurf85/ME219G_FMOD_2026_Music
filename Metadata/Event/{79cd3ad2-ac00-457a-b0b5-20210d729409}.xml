@@ -1,6 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <objects serializationModel="Studio.02.03.00">
 	<object class="Event" id="{79cd3ad2-ac00-457a-b0b5-20210d729409}">
+		<property name="note">
+			<value>Ambience_Stinger spelas en gång annars bara en loop på repeat.</value>
+		</property>
 		<property name="name">
 			<value>Zone_1</value>
 		</property>

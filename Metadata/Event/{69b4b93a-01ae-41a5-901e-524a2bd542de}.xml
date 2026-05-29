@@ -1,6 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <objects serializationModel="Studio.02.03.00">
 	<object class="Event" id="{69b4b93a-01ae-41a5-901e-524a2bd542de}">
+		<property name="note">
+			<value>Combat-musik startar när combat parametern har värdet 1 och stannar när den har värdet 0. Key Stinger spelas när parametern Key_Pick_Up har värdet 1.
+Parametern Transition styr övergångar mellan loopar. 0=Loop A 1=Loop_B 2=Loop_C</value>
+		</property>
 		<property name="name">
 			<value>Zone_4</value>
 		</property>
