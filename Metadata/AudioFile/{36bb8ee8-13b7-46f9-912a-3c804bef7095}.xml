@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <objects serializationModel="Studio.02.03.00">
-	<object class="AudioFile" id="{33c5b929-0448-4aeb-9763-022ebe2782bb}">
+	<object class="AudioFile" id="{36bb8ee8-13b7-46f9-912a-3c804bef7095}">
 		<property name="assetPath">
 			<value>Stingers/Game_Over_Stinger.wav</value>
 		</property>
