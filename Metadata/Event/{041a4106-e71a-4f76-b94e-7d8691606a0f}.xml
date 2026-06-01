@@ -304,7 +304,7 @@
 			<value>1.5</value>
 		</property>
 		<property name="releaseTime">
-			<value>2400</value>
+			<value>3000</value>
 		</property>
 		<property name="finalValue">
 			<value>-80</value>
