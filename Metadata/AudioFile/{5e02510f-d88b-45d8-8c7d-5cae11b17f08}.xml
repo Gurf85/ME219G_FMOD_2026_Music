@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <objects serializationModel="Studio.02.03.00">
-	<object class="AudioFile" id="{597fac84-d5bd-423c-8800-48f1ffa6596b}">
+	<object class="AudioFile" id="{5e02510f-d88b-45d8-8c7d-5cae11b17f08}">
 		<property name="assetPath">
-			<value>Audio/Zone_5_Boss/Boss_Git_Bend_Zone_5.wav</value>
+			<value>Audio/Zone_5_Boss/Boss_Fase_2_Zone_5.wav</value>
 		</property>
 		<property name="isStreaming">
 			<value>true</value>
@@ -14,7 +14,7 @@
 			<value>2</value>
 		</property>
 		<property name="length">
-			<value>21.741562500000001</value>
+			<value>21.573020833333334</value>
 		</property>
 		<relationship name="masterAssetFolder">
 			<destination>{87141b2c-14ae-4bd0-b17b-6338c22d2609}</destination>
