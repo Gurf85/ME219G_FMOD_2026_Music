@@ -136,9 +136,6 @@
 			<value>3</value>
 		</property>
 		<property name="name" />
-		<relationship name="triggerConditions">
-			<destination>{4e79e586-c290-4b0d-b322-742b775c067b}</destination>
-		</relationship>
 		<relationship name="commandTarget">
 			<destination>{97c4bbed-6956-49b0-8c1f-154c86694c74}</destination>
 		</relationship>
@@ -204,17 +201,6 @@
 		</relationship>
 	</object>
 	<object class="MixerBusPanner" id="{fd14222e-859c-4fcc-8891-f38377bd13b2}" />
-	<object class="ParameterCondition" id="{4e79e586-c290-4b0d-b322-742b775c067b}">
-		<property name="minimum">
-			<value>1</value>
-		</property>
-		<property name="maximum">
-			<value>1</value>
-		</property>
-		<relationship name="parameter">
-			<destination>{4cd4c95b-1de2-4949-a0a4-92df43bd870c}</destination>
-		</relationship>
-	</object>
 	<object class="ParameterCondition" id="{8cc09183-a343-41d9-85b0-162885d7be6d}">
 		<property name="minimum">
 			<value>0</value>

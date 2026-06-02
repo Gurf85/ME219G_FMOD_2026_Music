@@ -232,9 +232,6 @@ Parametern Transition styr övergångar mellan loopar. 0=Loop A 1=Loop_B 2=Loop_
 		<property name="length">
 			<value>49.777791666666658</value>
 		</property>
-		<relationship name="triggerConditions">
-			<destination>{6eeb69fc-fd31-4e3d-bbc3-526ff215f4dd}</destination>
-		</relationship>
 		<relationship name="commandTarget">
 			<destination>{97c4bbed-6956-49b0-8c1f-154c86694c74}</destination>
 		</relationship>
@@ -440,17 +437,6 @@ Parametern Transition styr övergångar mellan loopar. 0=Loop A 1=Loop_B 2=Loop_
 		</property>
 		<property name="maximum">
 			<value>0</value>
-		</property>
-		<relationship name="parameter">
-			<destination>{4cd4c95b-1de2-4949-a0a4-92df43bd870c}</destination>
-		</relationship>
-	</object>
-	<object class="ParameterCondition" id="{6eeb69fc-fd31-4e3d-bbc3-526ff215f4dd}">
-		<property name="minimum">
-			<value>1</value>
-		</property>
-		<property name="maximum">
-			<value>1</value>
 		</property>
 		<relationship name="parameter">
 			<destination>{4cd4c95b-1de2-4949-a0a4-92df43bd870c}</destination>
