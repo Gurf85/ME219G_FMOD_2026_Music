@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <objects serializationModel="Studio.02.03.00">
-	<object class="AudioFile" id="{3aa46508-55a9-4ffa-aa01-b719d84b08ca}">
+	<object class="AudioFile" id="{67bf56b2-a9e5-4ec4-b056-95454a3d5289}">
 		<property name="assetPath">
 			<value>Audio/Zone_4/Cluster_Lead_2_Zone_4.wav</value>
 		</property>
