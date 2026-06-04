@@ -104,7 +104,7 @@
 			<value>-80</value>
 		</property>
 		<property name="name">
-			<value>Audio 1</value>
+			<value>Combat_Music</value>
 		</property>
 		<relationship name="effectChain">
 			<destination>{4c96bd8d-e059-47c8-9313-359c541732a8}</destination>

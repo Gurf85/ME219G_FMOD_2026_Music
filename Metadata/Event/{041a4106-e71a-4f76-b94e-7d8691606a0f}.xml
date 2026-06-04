@@ -2,7 +2,7 @@
 <objects serializationModel="Studio.02.03.00">
 	<object class="Event" id="{041a4106-e71a-4f76-b94e-7d8691606a0f}">
 		<property name="note">
-			<value>Loop_A går på repeat. Combat-musik styrs med hjälp av ett command inst. start som startar musiken när värdet på combat parametern är 1 och ett command inst. stop som stoppar musiken när värdet går ner till 0 igen.</value>
+			<value>Loop_A går på repeat. Combat-music styrs med hjälp av en lable parameter som är global. Når musiken startar står den på value A och när den står på B börjar combat music spela. Key Stinger är samma som Zone_2.</value>
 		</property>
 		<property name="name">
 			<value>Zone_3</value>
@@ -26,7 +26,6 @@
 			<destination>{7bf85332-2726-4684-add8-7f30627ede30}</destination>
 		</relationship>
 		<relationship name="markerTracks">
-			<destination>{e21da485-f75f-4cc7-ac4c-f6125a4b239d}</destination>
 			<destination>{d1e6f3e9-3bb0-4d3e-b70e-fb51480ae53f}</destination>
 			<destination>{10a454be-68b0-4c3d-8baa-42dcdc60268f}</destination>
 			<destination>{30f745aa-cf71-403a-932c-030aeed81c03}</destination>
@@ -76,7 +75,6 @@
 		</relationship>
 	</object>
 	<object class="EventAutomatableProperties" id="{7bf85332-2726-4684-add8-7f30627ede30}" />
-	<object class="MarkerTrack" id="{e21da485-f75f-4cc7-ac4c-f6125a4b239d}" />
 	<object class="MarkerTrack" id="{d1e6f3e9-3bb0-4d3e-b70e-fb51480ae53f}" />
 	<object class="MarkerTrack" id="{10a454be-68b0-4c3d-8baa-42dcdc60268f}" />
 	<object class="MarkerTrack" id="{30f745aa-cf71-403a-932c-030aeed81c03}" />
@@ -415,7 +413,7 @@
 			<destination>{1c794c23-6126-492f-872c-4d6a1667562d}</destination>
 		</relationship>
 		<relationship name="markerTrack">
-			<destination>{e21da485-f75f-4cc7-ac4c-f6125a4b239d}</destination>
+			<destination>{d1e6f3e9-3bb0-4d3e-b70e-fb51480ae53f}</destination>
 		</relationship>
 	</object>
 	<object class="LoopRegion" id="{ff442310-5a5b-42db-8324-516773359e07}">

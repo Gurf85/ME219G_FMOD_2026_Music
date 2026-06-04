@@ -1,6 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <objects serializationModel="Studio.02.03.00">
 	<object class="Event" id="{1439540e-26aa-411b-9592-f33596321a33}">
+		<property name="note">
+			<value>Parametern Progress är discrete. Värdet på parametern ändras i Unity med hjälp av switchar som triggar bytet av värde. Spåren har olika values i Conditions för att bygga musiken i lager.</value>
+		</property>
 		<property name="name">
 			<value>Zone_4</value>
 		</property>
@@ -172,7 +175,7 @@
 	</object>
 	<object class="EventMixerGroup" id="{4c811146-0177-4b77-bb27-6346009c1a7b}">
 		<property name="name">
-			<value>Audio 1</value>
+			<value>Audio_Loop_A</value>
 		</property>
 		<relationship name="effectChain">
 			<destination>{a1da7a39-0047-41ff-a9bb-3899fc2b5bc7}</destination>
@@ -200,7 +203,7 @@
 	</object>
 	<object class="EventMixerGroup" id="{d767954d-78cb-412b-aee6-8c55e3b47fc3}">
 		<property name="name">
-			<value>Audio 2</value>
+			<value>Kick</value>
 		</property>
 		<relationship name="effectChain">
 			<destination>{e78c9974-96d7-4433-b6a3-70ab16ddc10b}</destination>
@@ -238,11 +241,8 @@
 		</relationship>
 	</object>
 	<object class="EventMixerGroup" id="{38ccc238-51ce-4006-aa62-06cad2d56eba}">
-		<property name="volume">
-			<value>-2.5</value>
-		</property>
 		<property name="name">
-			<value>Audio 5</value>
+			<value>Shakers</value>
 		</property>
 		<relationship name="effectChain">
 			<destination>{f7d37261-46ae-4974-9b9c-6df5afc673d1}</destination>
@@ -270,7 +270,7 @@
 	</object>
 	<object class="EventMixerGroup" id="{2ca08cb8-b9bb-4453-937c-d96d1b177581}">
 		<property name="name">
-			<value>Audio 3</value>
+			<value>Cluster_Lead</value>
 		</property>
 		<relationship name="effectChain">
 			<destination>{9f7e982c-8a6e-4bb7-ab9c-ada16d8cb7df}</destination>

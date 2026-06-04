@@ -2,7 +2,7 @@
 <objects serializationModel="Studio.02.03.00">
 	<object class="Event" id="{770e4eee-f83d-41a4-b958-80c5f7ca2d9d}">
 		<property name="note">
-			<value>Loop_A på repeat. Key Stinger triggas när parametern Key_Pick_Up står på 1.</value>
+			<value>Loop_A på repeat. Key Stinger triggas när parametern Key_Pick_Up har värdet 1.</value>
 		</property>
 		<property name="name">
 			<value>Zone_2</value>
@@ -128,7 +128,7 @@
 	</object>
 	<object class="EventMixerGroup" id="{e290d5a3-f1ce-4a0e-8b18-a3f2c4b27121}">
 		<property name="name">
-			<value>Audio 1</value>
+			<value>Audio_Loop_A</value>
 		</property>
 		<relationship name="effectChain">
 			<destination>{7663aea8-4c7b-456f-af76-3bc7411e96b2}</destination>
