@@ -232,7 +232,7 @@
 	</object>
 	<object class="EventMixerGroup" id="{bdfabc62-67ad-411f-a9a6-d6134c4c07bd}">
 		<property name="volume">
-			<value>1.5</value>
+			<value>2.5</value>
 		</property>
 		<property name="name">
 			<value>Loop_A</value>
