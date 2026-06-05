@@ -231,8 +231,11 @@
 		</relationship>
 	</object>
 	<object class="EventMixerGroup" id="{bdfabc62-67ad-411f-a9a6-d6134c4c07bd}">
+		<property name="volume">
+			<value>1.5</value>
+		</property>
 		<property name="name">
-			<value>Combat_Perc_Zone_3</value>
+			<value>Loop_A</value>
 		</property>
 		<relationship name="effectChain">
 			<destination>{1b2a4866-12af-46e4-8d33-a7a39076f69a}</destination>
