@@ -262,7 +262,7 @@
 	</object>
 	<object class="EventSound" id="{9a866b9e-98a2-4ebe-bc16-366484b15dea}">
 		<property name="length">
-			<value>28.444458333333333</value>
+			<value>64.000020833333338</value>
 		</property>
 		<relationship name="triggerConditions">
 			<destination>{51fbd3a8-1e50-427c-9d33-0670590ad0ca}</destination>
@@ -287,7 +287,7 @@
 	</object>
 	<object class="EventSound" id="{56ba1a1e-413b-4e94-887a-5327d455239f}">
 		<property name="length">
-			<value>28.444458333333333</value>
+			<value>64.000020833333338</value>
 		</property>
 		<relationship name="triggerConditions">
 			<destination>{e057fb2d-44bf-41cb-92bd-e6ba9bcdba4c}</destination>
